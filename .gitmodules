@@ -1,0 +1,3 @@
+[submodule "WatershedPHP"]
+	path = WatershedPHP
+	url = https://github.com/WatershedLRS/WatershedPHP
